@@ -1,5 +1,5 @@
 # Collection
-Heap is the base class
-Queue and Stack extends Heap
+Heap.class.java is the base class
+Queue.class.java and Stack.class.java extends Heap.class.java
 
-Test 1, Test 2, and Test 3 are the sample
+Test1.java, Test2.java, and Test3.java are the sample test code
